@@ -113,7 +113,8 @@ enum BaudRateType
     BAUD19200 = 19200,
     BAUD38400 = 38400,
     BAUD57600 = 57600,
-    BAUD115200 = 115200
+    BAUD115200 = 115200,
+    BAUD230400 = 230400
 };
 
 enum DataBitsType
